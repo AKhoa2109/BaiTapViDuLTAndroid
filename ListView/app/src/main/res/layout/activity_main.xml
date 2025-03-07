@@ -54,11 +54,11 @@
                 android:textSize="10sp">
             </Button>
         </LinearLayout>
+
         <ListView
             android:id="@+id/listView"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-        </ListView>
+            android:layout_height="wrap_content"></ListView>
     </LinearLayout>
 
 

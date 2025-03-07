@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.android.gridview"
+    namespace = "com.android.recycleview"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.android.gridview"
+        applicationId = "com.android.recycleview"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

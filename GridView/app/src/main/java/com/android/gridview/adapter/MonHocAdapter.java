@@ -29,30 +29,6 @@ public class MonHocAdapter extends BaseAdapter {
         protected TextView textName,textDesc;
         protected ImageView imagePic;
 
-
-        public TextView getTextName() {
-            return textName;
-        }
-
-        public void setTextName(TextView textName) {
-            this.textName = textName;
-        }
-
-        public TextView getTextDesc() {
-            return textDesc;
-        }
-
-        public void setTextDesc(TextView textDesc) {
-            this.textDesc = textDesc;
-        }
-
-        public ImageView getImagePic() {
-            return imagePic;
-        }
-
-        public void setImagePic(ImageView imagePic) {
-            this.imagePic = imagePic;
-        }
     }
 
     @Override
